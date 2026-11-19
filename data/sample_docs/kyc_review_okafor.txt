@@ -1,0 +1,21 @@
+KYC PERIODIC REVIEW — CORPORATE CLIENT
+Client: Okafor Trading B.V. (KvK 81234567)
+Contact person: Chidi Okafor
+E-mail: c.okafor@okafortrading.example
+Phone: +31 20 555 0199
+Business account: NL44RABO0123456789
+
+Dear Mr. Okafor,
+
+As part of our periodic Know-Your-Customer review we have checked the ownership structure and the
+source of funds of Okafor Trading B.V. The company imports agricultural machinery from Nigeria and Germany.
+Annual turnover reported for 2025: EUR 2.4 million.
+
+Findings
+- Ultimate beneficial owner (UBO) confirmed: Chidi Okafor, 100% shareholder.
+- No matches on sanctions or PEP lists.
+- Risk rating: MEDIUM, because of cross-border cash flows to high-risk third countries.
+- Next review date: November 2027.
+
+Kind regards,
+Anouk Smit

@@ -1,0 +1,25 @@
+HOME LOAN APPLICATION — REF HL/2026/PUN/0917
+Branch: Pune Baner (IFSC: HDFC0001234)
+
+Borrower: Priya Verma
+Co-borrower: Smt. Anjali Verma
+Father's Name: Rajesh Verma
+Date of birth: 12-08-1994
+PAN: ABCPV1234K
+Aadhaar: 2345 6789 0124
+Mobile: +91 98765 43210
+E-mail: priya.verma@example.in
+Address: Flat 402, Green Valley Society, Baner Road, Pune - 411045
+Salary account no: 50100234567891
+
+Loan details
+Requested amount: Rs 65,00,000 for 20 years to buy a 2BHK flat valued at Rs 82,00,000.
+Net monthly income: Rs 1,85,000 (software engineer, permanent employment).
+CIBIL score: 781. Existing car loan EMI of Rs 14,500.
+
+Assessment
+Ms. Verma meets the eligibility criteria. The loan-to-value ratio is 79%, within the RBI limit of 80%
+for loans above Rs 30 lakh. FOIR is 38%. Recommendation: sanction subject to legal and technical
+verification of the property.
+
+Relationship Manager: Rohit Kulkarni

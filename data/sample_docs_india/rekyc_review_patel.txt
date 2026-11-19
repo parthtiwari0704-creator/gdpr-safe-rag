@@ -1,0 +1,24 @@
+RE-KYC PERIODIC REVIEW — CUSTOMER ID 77812045
+Risk category: HIGH (high-value cross-border remittances)
+
+Customer Name: Amit Patel
+PAN: BQXPP4567M
+Aadhaar: 4567 8901 2341
+Passport No: K4567812
+Voter ID: DLX1234567
+Mobile: +91 99887 76655
+E-mail: amit.patel@example.co.in
+Current account no: 917020034455667
+Business GSTIN: 24BQXPP4567M1Z5
+
+Findings
+Mr. Patel runs a textile export firm in Surat. In the last 12 months he received foreign inward
+remittances of Rs 2.1 crore from the UAE and Bangladesh, which match his declared export business.
+Documents verified: PAN, Aadhaar (offline XML), passport and GST registration.
+No adverse media. Not a politically exposed person (PEP).
+
+Decision
+Re-KYC completed through video KYC on 4 November 2026. Next review due in 2 years because the
+customer stays in the HIGH risk category.
+
+Officer: Kavita Menon

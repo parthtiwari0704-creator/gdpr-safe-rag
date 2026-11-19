@@ -1,0 +1,17 @@
+CUSTOMER COMPLAINT — REF CMP/2026/11/3392
+Channel: Internet banking grievance form
+
+Customer Name: Sneha Reddy
+E-mail: sneha.reddy@example.org
+Mobile: 9900112233
+Credit card: 4111 1111 1111 1111
+Address: 3rd Cross, Indiranagar, Bengaluru - 560038
+
+Ms. Reddy says she was charged an annual fee of Rs 2,999 + GST on her credit card although the
+fee is waived when yearly spends cross Rs 3,00,000. Her spends for the card year were Rs 3,42,000.
+She asks for a reversal and says she will go to the RBI Banking Ombudsman if it is not resolved in 30 days.
+
+Resolution
+The waiver was not applied because two transactions were wrongly tagged as cash withdrawals.
+The fee of Rs 2,999 and GST of Rs 539.82 will be reversed in the next statement.
+Complaint closed as "resolved in favour of customer".

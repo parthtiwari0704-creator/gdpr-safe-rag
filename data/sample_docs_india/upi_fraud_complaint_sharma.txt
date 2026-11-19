@@ -1,0 +1,23 @@
+UPI FRAUD COMPLAINT — TICKET UPI-FR-55821
+Status: Under investigation | Reported to: Cyber Crime helpline 1930
+
+Complainant: Rahul Sharma
+Mobile: 9812345670
+UPI ID: rahulsharma88@okicici
+Savings account no: 0123 4567 8901 2345
+Aadhaar: 3456 7890 1238
+Address: B-14, Sector 62, Noida - 201309
+
+Summary
+On 9 November 2026 Mr. Sharma received a call from a person claiming to be from the bank's KYC team.
+He was asked to share a screen-sharing app code to "update his KYC". Within 10 minutes four UPI
+payments totalling Rs 1,48,000 were made to the UPI ID quickpay.rewards@ybl and to account
+number 918020045672311 (IFSC UTIB0000456).
+
+Actions taken
+1. Debit card ending 4421 and UPI services blocked at 18:42.
+2. Lien request sent to the beneficiary banks through NPCI.
+3. As per RBI's zero-liability framework, the customer reported within 3 working days, so a shadow
+   reversal of Rs 1,48,000 will be credited within 10 working days pending investigation.
+
+Officer: Neha Iyer

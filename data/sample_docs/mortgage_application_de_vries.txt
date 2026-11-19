@@ -1,0 +1,20 @@
+MORTGAGE APPLICATION — CASE MA-2026-0412
+Branch: Amsterdam Zuidas
+
+Applicant: Jan de Vries
+Co-applicant: Sophie de Vries-Bakker
+Date of birth: 14-03-1988
+BSN: 111222333
+Address: Keizersgracht 123, 1015 CJ Amsterdam
+E-mail: jan.devries@example.nl
+Phone: +31 6 12345678
+
+Requested loan: EUR 385,000 for a 30-year annuity mortgage on an apartment valued at EUR 420,000.
+Gross annual household income: EUR 96,500. Both applicants have permanent employment contracts.
+Salary is paid into IBAN NL20INGB0001234567.
+
+Assessment notes
+Mr. de Vries has no negative BKR registrations. The loan-to-value ratio is 91.7%, within the 100% LTV limit.
+The debt-to-income ratio is within the NIBUD 2026 norms. Recommendation: approve, subject to a valuation report.
+
+Prepared by: Pieter Jansen

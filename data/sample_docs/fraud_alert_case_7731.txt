@@ -1,0 +1,21 @@
+FRAUD ALERT — CASE FR-7731
+Status: Open | Priority: High
+
+Customer: Emma Visser
+Account: NL91ABNA0417164300
+Contact: emma.visser@example.com, 06-98765432
+
+Summary
+On 12 November 2026 three outgoing SEPA transfers totalling EUR 14,200 were made from the account of Ms. Visser
+to a newly added beneficiary account DE89370400440532013000 in Germany. The transfers were initiated from IP address
+185.23.44.101, which has never been used by this customer before.
+
+Ms. Visser called the bank at 21:40 and reported she had received a fake "bank employee" phone call
+(spoofing scam). The card 4111 1111 1111 1111 linked to the account has been blocked.
+
+Actions
+1. Recall request sent to the receiving bank on 13 November 2026.
+2. Customer advised to file a police report.
+3. Case handed over to the Fraud Investigations team. Expected decision on reimbursement within 10 working days.
+
+Signed by: Lars Mulder

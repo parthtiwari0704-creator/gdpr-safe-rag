@@ -1,0 +1,15 @@
+CUSTOMER COMPLAINT — REF CC-2026-1188
+
+Name: Thomas Bakker
+E-mail: t.bakker@example.org
+Account holder: Thomas Bakker
+Account: NL71INGB0009876543
+
+Mr. Bakker complains that he was charged a EUR 35 overdraft fee twice in October 2026 although
+his account balance was only negative for one day. He asks for a refund of EUR 70 and says he will
+switch banks if this is not resolved.
+
+Resolution
+The second fee was a system error caused by a batch job that ran twice on 17 October 2026.
+Thomas Bakker will receive a refund of EUR 35 within 5 working days, plus a goodwill payment of EUR 25.
+The complaint is closed as "partially upheld".
